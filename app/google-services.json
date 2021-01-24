@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "101272182859",
+    "project_id": "createretrivingdatafirestore",
+    "storage_bucket": "createretrivingdatafirestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101272182859:android:1f3e713b99dbbe58cdedce",
+        "android_client_info": {
+          "package_name": "com.example.createretrivingdatafirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101272182859-g4oblouplhj3gic57vkvsmodkc20ntfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmXcuIn18SEDK5PI795jc36_XS_a-ORh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101272182859-g4oblouplhj3gic57vkvsmodkc20ntfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101272182859:android:0e3658aa5b8fd0accdedce",
+        "android_client_info": {
+          "package_name": "com.fyn.loginregisterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101272182859-g4oblouplhj3gic57vkvsmodkc20ntfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmXcuIn18SEDK5PI795jc36_XS_a-ORh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101272182859-g4oblouplhj3gic57vkvsmodkc20ntfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
